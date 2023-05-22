@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d2995db63aed8741b6dd53864e5751c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - saveData: {fileID: 11400000, guid: 2fbe29c554af5d84b9bdecaab48fec86, type: 2}
+  - sceneBootloaderPrefab: {fileID: 7468232153951217328, guid: 9f5fc3559f8cc1c4bb32fd1e2c6d4feb,
+      type: 3}
+  - loadingScreenPrefab: {instanceID: 0}
+  - gameState: {fileID: 11400000, guid: 35af722527cf21148bdd90a70a23f45e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

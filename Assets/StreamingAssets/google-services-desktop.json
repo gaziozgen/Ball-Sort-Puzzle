@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546269786694",
+    "project_id": "ball-sort-puzzle-f6a52",
+    "storage_bucket": "ball-sort-puzzle-f6a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546269786694:android:fd05fa11e6e9d3df301047",
+        "android_client_info": {
+          "package_name": "com.voyager.ballsortpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546269786694-5qfjgiq4b515ahouasjg5ibnrjpkbv63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUElYL8UxkREDFdUDFwgJvYBYVMJHvG_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546269786694-5qfjgiq4b515ahouasjg5ibnrjpkbv63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

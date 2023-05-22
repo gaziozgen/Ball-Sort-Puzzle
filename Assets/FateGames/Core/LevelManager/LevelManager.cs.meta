@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af7a9338a1d9f0a44acc9691b1848e6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - saveData: {fileID: 11400000, guid: 2fbe29c554af5d84b9bdecaab48fec86, type: 2}
+  - loseScreen: {fileID: 5877225821496454348, guid: 32dae432a25057d41a2c84541dc21453,
+      type: 3}
+  - winScreen: {fileID: 5877225821496454348, guid: 0206f90b847f0a44984724f868fc2c5d,
+      type: 3}
+  - gameState: {fileID: 11400000, guid: 35af722527cf21148bdd90a70a23f45e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

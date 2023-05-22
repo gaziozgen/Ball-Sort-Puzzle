@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e30a6cdfb1685c478f9ce261aa1b4e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameState: {fileID: 11400000, guid: 35af722527cf21148bdd90a70a23f45e, type: 2}
+  - soundOn: {fileID: 11400000, guid: 665b4bfef9547ec4aa107fdf891ed66a, type: 2}
+  - soundWorkerPrefab: {fileID: 6660387099917091304, guid: 7fbc3e6b3f1fc354099ca4ed62c09742,
+      type: 3}
+  - workingWorkerSet: {fileID: 11400000, guid: 483d9c9c8a9c3b744b36428ba1e45c77, type: 2}
+  - availableWorkerSet: {fileID: 11400000, guid: a9c28c66a5fe9f440a205ec292a2ee6b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
